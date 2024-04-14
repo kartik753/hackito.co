@@ -117,6 +117,9 @@ body{
 .social__links ul .ctf:hover{
     background: linear-gradient(to left, #c6ffdd, #fbd786, #f7797d) ;
 }
+.social__links ul .oscp:hover{
+    background: linear-gradient(to left, #fc4a1a, #f7b733) ;
+}
 .social__links ul .instagram:hover{
     background: linear-gradient(to right, #8a3ab9, #e95950, #fccc63, #cd486b, #4c68d7) ;
 }
